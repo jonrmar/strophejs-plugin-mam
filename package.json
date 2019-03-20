@@ -2,7 +2,7 @@
   "name": "strophejs-plugin-mam",
   "version": "0.0.3",
   "description": "A strophe.js plugin for Message Archive Management (XEP-0313)",
-  "main": "lib/strophe.mam.js",
+  "main": "src/strophe.mam.js",
   "scripts": {
     "build": "rollup src/strophe.mam.js -f umd -g strophe.js:window -e strophejs-plugin-rsm -o lib/strophe.mam.js -m",
     "prepublish": "npm run --silent build",
