@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/strophe/strophejs-plugin-mam.git"
+    "url": "git+https://github.com/jonrmar/strophejs-plugin-mam.git"
   },
   "keywords": [
     "strophe.js",
